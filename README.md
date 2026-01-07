@@ -1,6 +1,9 @@
 # 🧪 Evaluation of DBSCAN Clustering Technique on Time Series Data with Anomalies
 
-![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Fjulersepnio%2Fdbscan-eval)
+<a href=https://github.com/julersepnio/dbscan-eval> 
+   <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github"> 
+</a>
+
 
 ## ✏️ Problem Statement
 
