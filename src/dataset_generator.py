@@ -5,7 +5,10 @@ import matplotlib.pyplot as plt
 
 def generate_dataset():
   """
-  Generate time series dataset according to specifications.
+  Generates time series dataset according to specifications.
+
+  Returns:
+    pd.DataFrame: DataFrame with columns 'timestamp', 'value', and 'is_anomaly'.
   """
   np.random.seed(42)      # Set seed to ensure reproducibility
 
