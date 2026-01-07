@@ -15,15 +15,21 @@ This projects aims to evaluate a promising tool that uses Density-Based Spatial 
 
 This project was created largely on Google Collab. Dependency Installation is also included in the notebooks.
 
-Upload the `data` and `src` directories on the `/` (slash) directory if using Google Collab as well
+1. Upload the `data` and `src` directories on the `/` (slash) directory if using Google Collab as well
 
 ## 📝 Results Summary
 
 Comparing a anomaly detection algorithm to a clustering one is unorthodoxical and therefore cannot be compared by standard tools. In conclusion, streamed DBSCAN shows promising attributes in detecting anomalous data by monitoring streamed data. 
 
-### RRCF
+### 🌲RRCF
 
 ![rrcf](./assets/synthetic_ts_with_anomalies.png)
 
-### DBSCAN
+### 🔎 DBSCAN
 ![dbscan](./assets/dbstream_clusters.png)
+
+## 👨‍🚀 Author Information
+
+**Juler John Sepnio**<br>
+DevOps Specialist with 10+ years professional experience<br>
+🇵🇭 | [LinkedIn](https://www.linkedin.com/in/julersepnio/)
